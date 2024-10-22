@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>About Me</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="/styles/style.css" />
+  </head>
+  <body>
+    <!-- partial:index.partial.html -->
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/index.html">Josh's Web Portfolio</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="/index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="about.html">About Me</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#eduSection">Education</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#projectSection">Projects</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#experienceSection">Experience</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Nu Validator</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Source Code</a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <input
+              class="form-control me-2"
+              type="search"
+              placeholder="Search"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-success" type="submit">
+              Search
+            </button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <main role="main">
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <div class="container">
+          <h1 class="display-3">About Me</h1>
+        </div>
+      </div>
+    </main>
+
+    <div class="row" id="introSection">
+      <h1 class="intro">Introduction</h1>
+      <p class="introDesc">
+        Hello! my name is Joshua Bradley. I am a student at the University of
+        North Alabama and I am currently on track to graduate in May of 2026. My
+        major is Information Technology and my concentration is Human-Computer
+        Interaction and User Experience (HCI/UX). I am from a suburb outside of
+        Birmingham, AL called Chelsea. A fun fact about me is that I have 5
+        siblings.
+      </p>
+      <img
+        id="profile-pic"
+        class="myPicture"
+        src="IMG_1937.jpg"
+        alt="Joshua R. Bradley"
+      />
+    </div>
+
+    <div class="row" id="eduSection">
+      <h1 class="edu">Education</h1>
+      <p class="eduDesc">
+        I graduated from Cheslea High School in May of 2022. and I am currently
+        a junior at the University of North Alabama. I will be graduated by May
+        of 2026. While in school, I have been apart of the Honors Student
+        Organization, which provided many opportunities to grow academically.
+      </p>
+      <img
+        id="profile-pic"
+        class="unaImg"
+        src="https://www.una.edu/about/images/Air%20view.jpg"
+        alt="UNA"
+      />
+      <img class="codeCompletions" src="caSS.jpg" alt="Code Academy" />
+    </div>
+
+    <div class="row" id="projectSection">
+      <h1 class="projectsTitle">Projects</h1>
+      <p class="projectsDesc">
+        Over the past 2 years, I have done a few projects within my classes at
+        North Alabama, and outside my classes. Some are listed below.
+      </p>
+      <ul class="listProjects">
+        <li>
+          One small coding project can be found on my
+          <a
+            href="https://github.com/joshuabrad03/scaling-octo-david"
+            target="_blank"
+            >Github</a
+          >. This project is a fairly simple web escape room that I made for the
+          purpose of testing different elements in HTML, CSS, and JS.
+        </li>
+        <li>
+          The next project can be found on my
+          <a href="https://codepen.io/Josh-Bradley/full/mdQVYGx" target="_blank"
+            >CodePen</a
+          >. This was a project that I did when I took an online HTML and CSS
+          course. This project showcases my passion for design.
+        </li>
+      </ul>
+      <img
+        id="profile-pic"
+        src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-823jqxdr.png"
+        alt="githubLogo"
+      />
+    </div>
+
+    <div class="row" id="experienceSection">
+      <h1 class="experienceTitle">Experience</h1>
+      <p class="experienceDesc">
+        As of right now, I am in the process of searching for an internship. My
+        current job has provided me some experience with design and front-end
+        developement, however, I am looking for some experience in the field.
+      </p>
+      <img id="profile-pic" src="ERF.jpg" alt="The Escape Room Florence" />
+    </div>
+
+    <footer>
+      <hr />
+      <p>Thanks for visiting my website!</p>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.0/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js"></script>
+    <script src="scripts/script.js"></script>
+  </body>
+</html>
