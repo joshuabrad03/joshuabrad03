@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Bradley
 ======================================================================================================================================
 
-Web Developer and User Experience Designer
+Web Developer and User Interface Designer
 ------------------------------------------
 
 I've been learning to code for 4 years, and I am pursuing a Bachelors of Science in Information Technology with a concentration in HCI/UX at the University of North Alabama. I have a passion for user interface design and front-end development have had no doubt that this is what I want to do professionally.
