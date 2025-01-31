@@ -7,7 +7,7 @@ Web Developer and User Interface Designer
 I've been learning to code for 4 years, and I am pursuing a Bachelors of Science in Information Technology with a concentration in HCI/UX at the University of North Alabama. I have a passion for user interface design and front-end development have had no doubt that this is what I want to do professionally.
 
 * 🌍  I'm based in Birmingham, AL
-* 🖥️  See my portfolio at [joshuabrad03]([https://joshuabrad03.github.io/friendly-octo-winner/])
+* 🖥️  See my portfolio at [joshuabrad03](https://joshuabrad03.github.io/friendly-octo-winner/)
 * ✉️  You can contact me at [joshuabrad03@gmail.com](mailto:joshuabrad03@gmail.com)
 
 ### Skills
