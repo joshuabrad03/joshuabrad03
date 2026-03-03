@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Bradley
 ======================================================================================================================================
 
-Web Developer and User Interface Designer
+User Experience Designer
 ------------------------------------------
 
-I've been learning to code for 4 years, and I am pursuing a Bachelors of Science in Information Technology with a concentration in HCI/UX at the University of North Alabama. I have a passion for user interface design and front-end development have had no doubt that this is what I want to do professionally.
+I am a UX designer with a passion for crafting accessible and user-centered digital experiences. My background in HCI/UX, coupled with a professional certificate in UX design and specialized training in web accessibility (WCAG), informs my approach to inclusive design.  I leverage my skills in user research, prototyping, and visual design to transform complex problems into intuitive and engaging solutions. My experience managing a team has honed my communication and leadership skills, enabling me to effectively collaborate with stakeholders and guide design projects from concept to completion. I thrive in collaborative environments where I can apply my analytical thinking and problem-solving skills to create seamless user experiences that work for everyone.
 
 * 🌍  I'm based in Birmingham, AL
 * 🖥️  See my portfolio [here](www.joshuabradleyux.com)
