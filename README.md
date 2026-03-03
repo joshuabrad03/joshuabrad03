@@ -7,7 +7,7 @@ User Experience Designer
 I am a UX designer with a passion for crafting accessible and user-centered digital experiences. My background in HCI/UX, coupled with a professional certificate in UX design and specialized training in web accessibility (WCAG), informs my approach to inclusive design.  I leverage my skills in user research, prototyping, and visual design to transform complex problems into intuitive and engaging solutions. My experience managing a team has honed my communication and leadership skills, enabling me to effectively collaborate with stakeholders and guide design projects from concept to completion. I thrive in collaborative environments where I can apply my analytical thinking and problem-solving skills to create seamless user experiences that work for everyone.
 
 * 🌍  I'm based in Birmingham, AL
-* 🖥️  See my portfolio [here](www.joshuabradleyux.com)
+* 🖥️  See my portfolio at www.joshuabradleyux.com
 * ✉️  You can contact me at [joshuabrad03@gmail.com](mailto:joshuabrad03@gmail.com)
 
 ### Skills
